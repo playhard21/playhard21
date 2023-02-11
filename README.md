@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @playhard21
-- 👀 I’m interested in coding, Entrepreneurship , Travelling
+- 👀 I’m interested in Coding, Entrepreneurship , Travelling
 - 🌱 I’m currently learning new topic every week
 - 💞️ I’m looking to collaborate on open-source blockchain projects
 - 📫 Reach me at contact@aravind.de
