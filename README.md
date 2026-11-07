@@ -33,7 +33,7 @@ I hold an **M.Sc. in Digital Engineering** from **Otto von Guericke Universität
 - 👀 Interested in Coding, Entrepreneurship, Travelling & Photography
 - 🌱 Learning something new every week
 - 💞️ Looking to collaborate on **open-source blockchain projects**
-- 📫 Reach me at **contact@aravind.de**
+- 📫 Reach me at **kontakt@aravind.de**
 
 ---
 
